@@ -1,0 +1,13 @@
+{
+  "name": "react-simple-scroll",
+  "version": "1.0.0",
+  "main": "src/source.js";
+  "description": "ReactJS ES6 simple scroll down animation with minimal usage",
+  "keywords": ["scroll", "down", "react", "es6"],
+  "author": "Piyiyo <admin@mandrilsoft.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piyiyo/react-simple-scroll"
+  }
+}
