@@ -1,10 +1,10 @@
-# react-simple-scroll
+# react-simple-scrolldown
 
 ReactJS ES6 simple scroll down animation with minimal usage.
 
 ## Installation
 
-NPM: react-simple-scroll
+npm i react-simple-scrolldown
 
 ## Usage
 
