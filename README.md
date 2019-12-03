@@ -25,7 +25,10 @@ scrollDown accepts two parameters, event and callback.
         return(
           <React.Fragment>
             <a href="#" id="target" onClick={this.reactScroll.scrollDown}>Link text</a>
-            ...
+            .
+            .
+            .
+            .
             <div className="target">content</div>
           </React.Fragment>
         );
