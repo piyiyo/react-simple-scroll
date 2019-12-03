@@ -1,7 +1,7 @@
 {
-  "name": "react-simple-scroll",
+  "name": "react-simple-scrolldown",
   "version": "1.0.0",
-  "main": "src/source.js";
+  "main": "src/source.js",
   "description": "ReactJS ES6 simple scroll down animation with minimal usage",
   "keywords": ["scroll", "down", "react", "es6"],
   "author": "Piyiyo <admin@mandrilsoft.com>",
